@@ -9,7 +9,7 @@ Repository ini berisi hasil analisis dan visualisasi data yang menggabungkan pet
 
 ## Tujuan
 Tujuan dari proyek ini adalah untuk membuat visualisasi yang menggabungkan:
-- Peta zona risiko COVID-19 (berdasarkan warna zona: merah, oranye, kuning, hijau).
+- Peta zona risiko COVID-19 (berdasarkan warna zona: merah, oranye, hijau).
 - Titik sebaran kasus COVID-19 di Jawa Barat.
 
 Visualisasi ini diharapkan dapat memberikan gambaran yang lebih jelas mengenai persebaran kasus COVID-19 dan tingkat risiko di setiap wilayah di Jawa Barat.
@@ -26,8 +26,9 @@ Visualisasi ini diharapkan dapat memberikan gambaran yang lebih jelas mengenai p
    - Menyiapkan data geografis untuk visualisasi.
 
 3. **Visualisasi**:
-   - Membuat peta interaktif menggunakan library seperti `folium` atau `plotly` di Python.
-   - Menampilkan zona risiko dengan warna yang sesuai (merah, oranye, kuning, hijau).
+   - Membuat peta interaktif menggunakan Tableau dan visualisasi dalam bentuk Map.
+   - Menggunakan data tambahan berupa data geospasial wilayah Jawa Barat untuk menentukan cakupan wilayah Kabupaten/Kota.
+   - Menampilkan zona risiko dengan warna yang sesuai (merah, oranye, hijau).
    - Menambahkan titik sebaran kasus COVID-19 di atas peta.
 
 4. **Interpretasi**:
