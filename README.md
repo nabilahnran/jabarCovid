@@ -36,14 +36,9 @@ Visualisasi ini diharapkan dapat memberikan gambaran yang lebih jelas mengenai p
 
 ## Hasil Visualisasi
 Berikut adalah contoh visualisasi yang dihasilkan:
-
+![screenshot](sebaranCovidJabar.png)
 
 ## Interpretasi
 - Wilayah dengan zona merah menunjukkan tingkat risiko yang sangat tinggi, diikuti oleh oranye, kuning, dan hijau.
 - Titik sebaran kasus COVID-19 menunjukkan konsentrasi kasus di wilayah tertentu.
 - Dari visualisasi, dapat dilihat bahwa beberapa wilayah dengan zona merah memiliki jumlah kasus yang tinggi, sementara wilayah dengan zona hijau relatif aman.
-
-
-Raw data:
-Data mingguan zona resiko tiap kota/kabupaten di Jawa Barat https://drive.google.com/file/d/1svM8WtPLtj8MQXGfIBAYbftNRbaTXZfc/view
-Peta zona resiko Jawa Barat https://covid19-public.digitalservice.id/api/v1/sebaran_v2/jabar
